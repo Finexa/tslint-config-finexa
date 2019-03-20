@@ -1,0 +1,22 @@
+{
+  "name": "tslint-config-finexa",
+  "version": "1.0.0",
+  "description": "Set of tslint rules used by some projects at Finexa",
+  "main": "tslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finexa/tslint-config-finexa.git"
+  },
+  "keywords": [
+    "tslint"
+  ],
+  "author": "Felix Schoeler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Finexa/tslint-config-finexa/issues"
+  },
+  "homepage": "https://github.com/Finexa/tslint-config-finexa#readme"
+}
