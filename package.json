@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-finexa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set of tslint rules used by some projects at Finexa",
   "main": "tslint.json",
   "scripts": {
