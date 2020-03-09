@@ -17,6 +17,7 @@
     "no-consecutive-blank-lines": false,
     "no-reference": false,
     "no-floating-promises": true,
+    "no-parameter-reassignment": true,
     "variable-name": [
       "check-format",
       "require-const-for-all-caps"
